@@ -1,0 +1,26 @@
+.marq {
+    padding-top: 50px;
+    text-align: center;
+    height: 100%;
+    background-image: white;
+  }
+  
+  .title {
+    font-size: 1.3rem;
+    margin-bottom: 50px;
+    font-weight: 700;
+  }
+  
+  .image_wrapper {
+    margin: 0px 30px;
+    box-shadow: -4px 28px 15px -3px rgba(0,0,0,0.3);
+    background-color: #fff;
+    border-radius: 5px;
+    margin-bottom:20px ;
+    
+  }
+  
+  .image_wrapper img {
+    width: 80%;
+   
+  }

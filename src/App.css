@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:wght@100&family=Poppins:wght@200&family=Sacramento&family=Work+Sans:wght@300&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.App{
+  
+    width: 100%;
+
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
